@@ -5,7 +5,7 @@
 ## What I've Built
 
 - **[Scrybecast](https://scrybecast.com)** — Podcast-to-content SaaS. Multichannel audio transcription, automatic show notes, social posts & newsletter generation. Official [Auphonic](https://auphonic.com) integration partner. Stack: Bubble, Make, AssemblyAI.
-- **[Nail Harmony](https://nailharmony.fr)** — CRM for nail technicians. Appointment booking, client management, business analytics. Next.js + Supabase.
+- **[Nail Harmony](https://nail-harmony.com)** — CRM for nail technicians. Appointment booking, client management, business analytics. Next.js + Supabase.
 - **[NoCode Bento Studio](https://nocodebento.studio)** — Freelance no-code & automation consultancy. Certified Make Partner. Bubble, Airtable, n8n, API integrations for startups and SMBs.
 
 ## What I Do Now
