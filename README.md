@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[X]((https://x.com/MickaelBourgois)/) · [LinkedIn](https://www.linkedin.com/in/mbourgois)
+[X](https://x.com/MickaelBourgois/) · [LinkedIn](https://www.linkedin.com/in/mbourgois)
 
 ## What I've Built
 
